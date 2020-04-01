@@ -8,13 +8,13 @@
 
 ## 图片
 ### 整机
-![整机](https://github.com/kerisu/VFD_Clock/blob/master/photo/overview.png)
+![整机](https://github.com/kerisu/VFD_Clock/blob/master/photo/overview.jpg)
 
 ### 驱动板原理图
 ![原理图](https://github.com/kerisu/VFD_Clock/blob/master/photo/sch.png)
 
 ### PCB
-![pcb1](https://github.com/kerisu/VFD_Clock/blob/master/photo/pcb1.png)
-![ctrl](https://github.com/kerisu/VFD_Clock/blob/master/photo/ctrl.png)
-![drv](https://github.com/kerisu/VFD_Clock/blob/master/photo/drv.png)
-![pwr](https://github.com/kerisu/VFD_Clock/blob/master/photo/pwr.png)
+![pcb1](https://github.com/kerisu/VFD_Clock/blob/master/photo/pcb1.jpg)
+![ctrl](https://github.com/kerisu/VFD_Clock/blob/master/photo/ctrl.jpg)
+![drv](https://github.com/kerisu/VFD_Clock/blob/master/photo/drv.jpg)
+![pwr](https://github.com/kerisu/VFD_Clock/blob/master/photo/pwr.jpg)
