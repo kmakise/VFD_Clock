@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Key1 Pin=U1-22
+Removed Pin From Net: NetName=Key2 Pin=U1-25
+Added Pin To Net: NetName=Key2 Pin=U1-17
+Added Pin To Net: NetName=Key1 Pin=U1-18
+Added Room: Name=VFDControl

@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=Key3 Pin=U1-14
+Added Pin To Net: NetName=Key4 Pin=U1-15
+Added Pin To Net: NetName=Key5 Pin=U1-16
+Added Room: Name=VFDControl

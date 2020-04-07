@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=ESP3.3 Pin=C13-1
+Removed Pin From Net: NetName=ESP3.3 Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Member To Class: ClassName=VFDControl Member=Component C1 104
+Added Member To Class: ClassName=VFDControl Member=Component C2 104
+Added Member To Class: ClassName=VFDControl Member=Component C3 105
+Added Member To Class: ClassName=VFDControl Member=Component C4 105
+Added Member To Class: ClassName=VFDControl Member=Component LED1 LED
+Added Member To Class: ClassName=VFDControl Member=Component LED2 LED
+Added Member To Class: ClassName=VFDControl Member=Component R1 1K
+Added Member To Class: ClassName=VFDControl Member=Component R2 1K
+Added Member To Class: ClassName=VFDControl Member=Component R3 100K
+Added Member To Class: ClassName=VFDControl Member=Component R4 100K
+Added Member To Class: ClassName=VFDControl Member=Component R5 1K
+Added Member To Class: ClassName=VFDControl Member=Component R7 1K
+Added Member To Class: ClassName=VFDControl Member=Component R8 1K
+Added Member To Class: ClassName=VFDControl Member=Component R9 1K
+Added Member To Class: ClassName=VFDControl Member=Component R10 10K
+Added Member To Class: ClassName=VFDControl Member=Component R11 10K
+Added Member To Class: ClassName=VFDControl Member=Component R12 10K
+Added Member To Class: ClassName=VFDControl Member=Component U1 STM32F103C8T6
+Added Member To Class: ClassName=VFDControl Member=Component U2 LM1117
+Added Member To Class: ClassName=VFDControl Member=Component U3 DS3231
+Added Member To Class: ClassName=VFDControl Member=Component U4 ESP-12F
+Added Room: Name=VFDControl

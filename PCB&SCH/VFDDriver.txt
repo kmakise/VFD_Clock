@@ -1,0 +1,159 @@
+Board Information Report
+Filename     : C:\Users\ASUS\Desktop\VFD\VFDDriver.PcbDoc
+Date         : 2019/8/24
+Time         : 20:59:25
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 6605milsx1110mils
+    Components on board, 75
+count : 2
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 187
+    Connections routed, 187
+    Connections remaining, 0
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 0, 78, 0, 300, 0, 0, 0, 0
+    Bottom Layer, 0, 148, 0, 478, 0, 0, 0, 0
+    Mechanical 1, 0, 0, 0, 0, 0, 0, 0, 36
+    Mechanical 13, 0, 0, 0, 0, 0, 0, 0, 36
+    Mechanical 15, 4, 0, 0, 72, 0, 0, 0, 0
+    Multi-Layer, 0, 62, 106, 0, 0, 0, 1, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Overlay, 0, 0, 0, 306, 91, 0, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 12, 0, 0, 324, 92, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 12, 0, 0, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+count : 15
+
+Drill Pairs, Vias
+    Top Layer - Bottom Layer, 106
+count : 1
+
+Non-Plated Hole Size, Pads, Vias
+count : 0
+
+Plated Hole Size, Pads, Vias
+    0mils, 226, 0
+    11.811mils, 0, 80
+    15.748mils, 0, 26
+    31.496mils, 62, 0
+count : 4
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+count : 0
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Plated Square Hole Size, Pads
+count : 0
+
+Top Layer Annular Ring Size, Count
+    15.748mils, 12
+    15.748mils, 106
+    18.504mils, 50
+count : 3
+
+Mid Layer Annular Ring Size, Count
+    15.748mils, 12
+    15.748mils, 106
+    18.504mils, 50
+count : 3
+
+Bottom Layer Annular Ring Size, Count
+    15.748mils, 12
+    15.748mils, 106
+    18.504mils, 50
+count : 3
+
+Pad Solder Mask, Count
+    4mils, 288
+count : 1
+
+Pad Paste Mask, Count
+    0mils, 288
+count : 1
+
+Pad Pwr/Gnd Expansion, Count
+    20mils, 288
+count : 1
+
+Pad Relief Conductor Width, Count
+    10mils, 288
+count : 1
+
+Pad Relief Air Gap, Count
+    10mils, 288
+count : 1
+
+Pad Relief Entries, Count
+    4, 288
+count : 1
+
+Via Solder Mask, Count
+    4mils, 106
+count : 1
+
+Via Pwr/Gnd Expansion, Count
+    20mils, 106
+count : 1
+
+Track Width, Count
+    1.969mils, 8
+    5mils, 88
+    7.874mils, 44
+    8mils, 164
+    10mils, 6
+    11.811mils, 740
+    12mils, 130
+    15.748mils, 141
+    23.622mils, 37
+    31.496mils, 134
+count : 10
+
+Arc Line Width, Count
+    1.969mils, 4
+    7.874mils, 12
+count : 2
+
+Arc Radius, Count
+    12.5mils, 4
+    13.78mils, 4
+    46.862mils, 8
+count : 3
+
+Arc Degrees, Count
+    100, 8
+    180, 4
+    360, 4
+count : 3
+
+Text Height, Count
+    39.37mils, 144
+    60mils, 6
+    70.866mils, 33
+count : 3
+
+Text Width, Count
+    10mils, 183
+count : 1
+
+Net Track Width, Count
+    11.811mils, 100
+count : 1
+
+Net Via Size, Count
+    27.559mils, 100
+count : 1

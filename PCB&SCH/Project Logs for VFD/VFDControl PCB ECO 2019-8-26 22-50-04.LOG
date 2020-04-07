@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=+3.3V Pin=C1-1
+Removed Pin From Net: NetName=+3.3V Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Room: Name=VFDControl

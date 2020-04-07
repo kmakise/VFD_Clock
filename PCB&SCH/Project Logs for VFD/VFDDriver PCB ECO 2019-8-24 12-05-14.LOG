@@ -1,0 +1,34 @@
+Added Component: Designator=VFD1(VFD2.5)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=F+ Pin=VFD1-0
+Added Pin To Net: NetName=F+ Pin=VFD1-0
+Added Pin To Net: NetName=Sn Pin=VFD1-1
+Added Pin To Net: NetName=Sa Pin=VFD1-2
+Added Pin To Net: NetName=Sb Pin=VFD1-3
+Added Pin To Net: NetName=Sf Pin=VFD1-4
+Added Pin To Net: NetName=Sg Pin=VFD1-5
+Added Pin To Net: NetName=Se Pin=VFD1-6
+Added Pin To Net: NetName=Sc Pin=VFD1-7
+Added Pin To Net: NetName=Sd Pin=VFD1-8
+Added Pin To Net: NetName=Sh Pin=VFD1-9
+Added Pin To Net: NetName=Si Pin=VFD1-10
+Added Pin To Net: NetName=Sj Pin=VFD1-11
+Added Pin To Net: NetName=Sk Pin=VFD1-12
+Added Pin To Net: NetName=Sl Pin=VFD1-13
+Added Pin To Net: NetName=So Pin=VFD1-14
+Added Pin To Net: NetName=Sp Pin=VFD1-15
+Added Pin To Net: NetName=Sm Pin=VFD1-16
+Added Pin To Net: NetName=G10 Pin=VFD1-17
+Added Pin To Net: NetName=G9 Pin=VFD1-18
+Added Pin To Net: NetName=G8 Pin=VFD1-19
+Added Pin To Net: NetName=G7 Pin=VFD1-20
+Added Pin To Net: NetName=G6 Pin=VFD1-21
+Added Pin To Net: NetName=G5 Pin=VFD1-22
+Added Pin To Net: NetName=G4 Pin=VFD1-23
+Added Pin To Net: NetName=G3 Pin=VFD1-24
+Added Pin To Net: NetName=G2 Pin=VFD1-25
+Added Pin To Net: NetName=G1 Pin=VFD1-26
+Added Pin To Net: NetName=F- Pin=VFD1-27
+Added Pin To Net: NetName=F- Pin=VFD1-27
+Added Member To Class: ClassName=VFDDrive Member=Component VFD1 CM1422MB
+Added Room: Name=VFDDrive
